@@ -2,7 +2,7 @@
 
 基于 wechaty-puppet-padplus
 
-#### 结构
+## 结构
 
 ```js
 |-- src/
@@ -14,9 +14,10 @@
 |---- onFriendShip.js	# 好友添加监听回调
 |-- package.json
 ```
-# 使用
+
+## 使用
 * cnpm i 
 * cnpm install wechaty@latest
 * cnpm install wechaty-puppet-padplus@latest
-* nom run serve
+* npm run serve
 
